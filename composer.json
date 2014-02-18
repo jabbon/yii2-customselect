@@ -1,0 +1,22 @@
+{
+    "name": "jabbon/yii2-customselect",
+    "description": "My widget is a cool widget that does everything",
+    "keywords": ["yii", "extension", "widget", "cool"],
+    "homepage": "https://github.com/myname/yii2-mywidget-widget",
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Javier Pacheco",
+            "email": "jpacheco@bitevolution.net"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "jabbon\\yii2-customselect\\": ""
+        }
+    }
+}
