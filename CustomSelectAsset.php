@@ -16,7 +16,7 @@ use yii\web\AssetBundle;
  */
 class CustomSelectAsset extends AssetBundle {
 
-    public $sourcePath = '@vendor/jabbon/customselect/assets';
+    public $sourcePath = '@vendor/jabbon/yii2-customselect/assets';
     public $js = [
         'jquery.customSelect.min.js',
     ];
